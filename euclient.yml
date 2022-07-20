@@ -1,5 +1,3 @@
-env:
-  666dev666
 server:
   port: 8866
 spring:

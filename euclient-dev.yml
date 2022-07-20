@@ -1,5 +1,4 @@
-env:
-  ccc666dev555
+env: ccc666dev555
 server:
   port: 8866
 spring:

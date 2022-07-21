@@ -1,4 +1,4 @@
-env: ab765c666dev555
+env: rfvdev555
 server:
   port: 8866
 spring:

@@ -1,4 +1,4 @@
-env: 8866dev555dev
+env: dev8866dev555dev
 server:
   port: 8866
 spring:

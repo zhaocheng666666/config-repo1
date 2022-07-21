@@ -1,4 +1,4 @@
-env: devadev
+env: abcdadev
 server:
   port: 8866
 spring:

@@ -1,4 +1,4 @@
-env: dev8866dev555dev
+env: deva
 server:
   port: 8866
 spring:
